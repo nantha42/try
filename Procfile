@@ -1,0 +1,1 @@
+web: java -jar  mavenproject1/target/*.war
